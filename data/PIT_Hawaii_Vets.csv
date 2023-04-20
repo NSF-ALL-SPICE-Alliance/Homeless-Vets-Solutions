@@ -1,0 +1,9 @@
+household_type,veteran_status,population
+single adult,non veteran,2158
+single adult,veteran,204
+adult only,non veteran,723
+adult only,veteran,47
+adult and keiki,non veteran,871
+adult and keiki,veteran ,26
+unaccompanied youth,non veteran,131
+unaccompanied youth,veteran,2
